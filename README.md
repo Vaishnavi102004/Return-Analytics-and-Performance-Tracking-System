@@ -24,3 +24,6 @@ Average Return Value Analysis – track monetary impact of returns.
 Top 5 Employees by Return Count – dynamic ranking of employees contributing to returns.
 Monthly Return Trends – visualize seasonality and spikes in returns.
 Interactive Filters (Date, Person, Region) – drill down into specific segments for detailed insights.
+
+6.Screenshot
+Example: 
