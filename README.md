@@ -26,4 +26,4 @@ Monthly Return Trends – visualize seasonality and spikes in returns.
 Interactive Filters (Date, Person, Region) – drill down into specific segments for detailed insights.
 
 6.Screenshot
-Example: 
+Example: (https://github.com/Vaishnavi102004/Return-Analytics-and-Performance-Tracking-System/blob/main/dashboard.png)
